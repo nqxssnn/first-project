@@ -19,7 +19,6 @@ A Java-based web application built with **Spring Boot** and **Maven**. This proj
 ## 📂 Project Structure
 * `src/main/java` — Source code including controllers and business logic.
 * `src/main/resources` — Configuration files and HTML templates.
-* `.mvn/wrapper` — Files required for the Maven Wrapper.
 * `pom.xml` — The Maven Project Object Model file containing dependencies.
 
 ## 📸 Preview
