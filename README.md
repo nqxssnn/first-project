@@ -14,7 +14,6 @@ A Java-based web application built with **Spring Boot** and **Maven**. This proj
 
 ### Prerequisites
 * **Java Development Kit (JDK)** 17 or higher.
-* Git installed on your local machine.
 
 ## 📂 Project Structure
 * `src/main/java` — Source code including controllers and business logic.
