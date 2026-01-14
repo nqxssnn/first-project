@@ -23,4 +23,7 @@ A Java-based web application built with **Spring Boot** and **Maven**. This proj
 * `pom.xml` — The Maven Project Object Model file containing dependencies.
 
 ## 📸 Preview
+
+localhost:8080/greeting?name=Vistula
+
 ![Application Interface](images/img.png)
